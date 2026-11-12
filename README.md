@@ -1,6 +1,5 @@
 <div align="center">
 #Thnatsetth Srettchotidecha
-# JustKiddingz
 
 ### Full-Stack Developer · Exploring AI Engineering
 
