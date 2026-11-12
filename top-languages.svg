@@ -1,8 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-label="Most Used Languages">
-  <rect width="495" height="190" rx="12" fill="#1a1b27" stroke="#414868"/>
-  <text x="25" y="34" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Most Used Languages</text>
-  <circle cx="247" cy="88" r="13" fill="none" stroke="#7aa2f7" stroke-width="3"/>
-  <path d="M247 75 A13 13 0 0 1 260 88" fill="none" stroke="#bb9af7" stroke-width="3" stroke-linecap="round"/>
-  <text x="247" y="125" text-anchor="middle" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="13">Waiting for the first scheduled run</text>
-  <text x="247" y="148" text-anchor="middle" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="11">Run “Update GitHub Profile Stats” in Actions</text>
+<rect width="495" height="190" rx="12" fill="#1a1b27" stroke="#414868"/>
+<text x="25" y="34" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Most Used Languages</text>
+<rect x="25.00" y="57" width="180.05" height="10" fill="#3178c6"/>
+<rect x="205.05" y="57" width="96.20" height="10" fill="#7aa2f7"/>
+<rect x="301.25" y="57" width="77.37" height="10" fill="#e34c26"/>
+<rect x="378.63" y="57" width="59.44" height="10" fill="#f1e05a"/>
+<rect x="438.07" y="57" width="16.93" height="10" fill="#7aa2f7"/>
+<rect x="454.99" y="57" width="15.01" height="10" fill="#3572A5"/>
+<circle cx="30" cy="90" r="5" fill="#3178c6"/>
+<text x="43" y="94" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="12">TypeScript</text>
+<text x="240" y="94" text-anchor="end" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="12">40.5%</text>
+<circle cx="265" cy="90" r="5" fill="#7aa2f7"/>
+<text x="278" y="94" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="12">EJS</text>
+<text x="475" y="94" text-anchor="end" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="12">21.6%</text>
+<circle cx="30" cy="121" r="5" fill="#e34c26"/>
+<text x="43" y="125" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="12">HTML</text>
+<text x="240" y="125" text-anchor="end" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="12">17.4%</text>
+<circle cx="265" cy="121" r="5" fill="#f1e05a"/>
+<text x="278" y="125" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="12">JavaScript</text>
+<text x="475" y="125" text-anchor="end" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="12">13.4%</text>
+<circle cx="30" cy="152" r="5" fill="#7aa2f7"/>
+<text x="43" y="156" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="12">PLpgSQL</text>
+<text x="240" y="156" text-anchor="end" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="12">3.8%</text>
+<circle cx="265" cy="152" r="5" fill="#3572A5"/>
+<text x="278" y="156" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Python</text>
+<text x="475" y="156" text-anchor="end" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="12">3.4%</text>
 </svg>
