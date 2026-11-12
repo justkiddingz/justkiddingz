@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-label="Most Used Languages">
+  <rect width="495" height="190" rx="12" fill="#1a1b27" stroke="#414868"/>
+  <text x="25" y="34" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Most Used Languages</text>
+  <circle cx="247" cy="88" r="13" fill="none" stroke="#7aa2f7" stroke-width="3"/>
+  <path d="M247 75 A13 13 0 0 1 260 88" fill="none" stroke="#bb9af7" stroke-width="3" stroke-linecap="round"/>
+  <text x="247" y="125" text-anchor="middle" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="13">Waiting for the first scheduled run</text>
+  <text x="247" y="148" text-anchor="middle" fill="#565f89" font-family="Segoe UI,Arial,sans-serif" font-size="11">Run “Update GitHub Profile Stats” in Actions</text>
+</svg>
