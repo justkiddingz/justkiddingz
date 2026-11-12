@@ -6,18 +6,26 @@
 
 Building practical web applications, backend services, and tools that solve real problems.
 
+สร้างเว็บแอปพลิเคชัน ระบบ Backend และเครื่องมือที่ช่วยแก้ปัญหาในการใช้งานจริง
+
 [![GitHub](https://img.shields.io/badge/GitHub-JustKiddingz-181717?style=for-the-badge&logo=github)](https://github.com/justkiddingz)
 
 </div>
 
 ---
 
-## About
+## About Me
 
 - Full-stack developer interested in building useful products from frontend to backend.
 - Working with modern web technologies and backend services.
 - Currently exploring **AI Engineering**, LLM applications, and ways to integrate AI into real-world software.
 - I enjoy understanding how things work and writing code hands-on.
+
+**เกี่ยวกับผม**
+- นักพัฒนา Full-stack ที่สนุกกับการสร้างซอฟต์แวร์ ตั้งแต่ส่วนหน้าบ้านไปจนถึงระบบหลังบ้าน
+- ทำงานกับเทคโนโลยีเว็บสมัยใหม่และการพัฒนาระบบ Backend
+- กำลังศึกษาและพัฒนาด้าน **AI Engineering**, LLM และการนำ AI มาประยุกต์ใช้กับซอฟต์แวร์จริง
+- ชอบเรียนรู้หลักการทำงานของเทคโนโลยีและลงมือเขียนโค้ดด้วยตัวเอง
 
 ## Tech Stack
 
@@ -49,11 +57,15 @@ Building practical web applications, backend services, and tools that solve real
 
 A web-based guild management platform for AION2. Manage members, track character progression, inspect equipment, review history, and build party compositions.
 
+แพลตฟอร์มจัดการกิลด์ AION2 สำหรับดูแลสมาชิก ติดตามพัฒนาการตัวละคร ตรวจสอบอุปกรณ์ ดูประวัติการเปลี่ยนแปลง และจัดทีมปาร์ตี้
+
 **Built with:** Next.js · React · TypeScript · Tailwind CSS · Supabase · FastAPI
 
 ### [AION2 API](https://github.com/justkiddingz/aion2_api)
 
 An unofficial read-only API that provides AION2 notices, events, server information, character stats, equipment, and Daevanion data as JSON.
+
+API ที่พัฒนาขึ้นอย่างไม่เป็นทางการ สำหรับดึงข้อมูลข่าวสาร กิจกรรม เซิร์ฟเวอร์ สถานะตัวละคร อุปกรณ์ และ Daevanion ของ AION2 ในรูปแบบ JSON
 
 **Built with:** Python · FastAPI
 
@@ -69,5 +81,7 @@ An unofficial read-only API that provides AION2 notices, events, server informat
 <div align="center">
 
 *Always learning. Always building.*
+
+*เรียนรู้อยู่เสมอ และสร้างสรรค์สิ่งใหม่อยู่เสมอ*
 
 </div>
