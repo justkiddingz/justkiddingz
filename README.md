@@ -63,11 +63,11 @@ A web-based guild management platform for AION2. Manage members, track character
 
 ### [AION2 API](https://github.com/justkiddingz/aion2_api)
 
-An unofficial read-only API that provides AION2 notices, events, server information, character stats, equipment, and Daevanion data as JSON.
+A personal deployment/adaptation of the open-source [AION2 API originally created by axsddlr](https://github.com/axsddlr/aion2_api). I use it to access unofficial, read-only AION2 data such as notices, events, server information, character stats, equipment, and Daevanion data in JSON. **The original API implementation is not my work.**
 
-API ที่พัฒนาขึ้นอย่างไม่เป็นทางการ สำหรับดึงข้อมูลข่าวสาร กิจกรรม เซิร์ฟเวอร์ สถานะตัวละคร อุปกรณ์ และ Daevanion ของ AION2 ในรูปแบบ JSON
+โปรเจกต์นี้เป็นการนำ [AION2 API แบบ Open Source ที่พัฒนาโดย axsddlr](https://github.com/axsddlr/aion2_api) มาใช้งานและปรับใช้ในรูปแบบของตัวเอง เพื่อดึงข้อมูล AION2 เช่น ข่าวสาร กิจกรรม เซิร์ฟเวอร์ สถานะตัวละคร อุปกรณ์ และ Daevanion ในรูปแบบ JSON โดย **ไม่ได้เป็นผู้พัฒนา API ต้นฉบับ**
 
-**Built with:** Python · FastAPI
+**Original project:** [axsddlr/aion2_api](https://github.com/axsddlr/aion2_api) · **Upstream stack:** Python · FastAPI
 
 ---
 
