@@ -74,8 +74,8 @@ A personal deployment/adaptation of the open-source [AION2 API originally create
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=justkiddingz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkiddingz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="190" src="./github-stats.svg" alt="GitHub statistics" />
+  <img height="190" src="./top-languages.svg" alt="Most used programming languages" />
 </div>
 
 <div align="center">
